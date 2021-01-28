@@ -4,12 +4,12 @@ This framework is made along with a MVC course.
 
 ## Configuration
 
-Befor use, there are a couple of files that needs to be changed.
+Before use, there are a couple of files that needs to be changed.
 
 ### config.php
 
 Location: 'app/config/config.php'  
-Change the variables according tuo your setup.
+Change the variables according to your setup.
 
 ### .htaccess file to be changed before use
 

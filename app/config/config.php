@@ -15,4 +15,4 @@
     define('SITENAME', '_YOUR_SITENAME_');
 
     // App Version
-    define('APPVERSION', '1.0.0');
+    define('APPVERSION', '1.0.1');
